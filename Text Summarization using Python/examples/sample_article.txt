@@ -1,0 +1,4 @@
+Text summarization is an important task in natural language processing. It helps users quickly understand large documents by producing concise summaries.
+There are two main approaches: extractive methods, which select key sentences from the original text, and abstractive methods, which generate new sentences that capture the meaning of the source.
+Modern systems often rely on transformer-based models such as BART, T5, or PEGASUS for high-quality abstractive summaries.
+

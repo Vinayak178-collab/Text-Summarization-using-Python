@@ -1,0 +1,3 @@
+Text summarization shortens documents while preserving key ideas.
+Extractive methods select important sentences, and abstractive methods generate new ones, often using transformer models like BART or T5.
+

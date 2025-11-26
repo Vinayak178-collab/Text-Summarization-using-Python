@@ -1,0 +1,16 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+transformers==4.45.0
+torch>=2.0.0
+sentence-transformers==3.0.1
+nltk==3.9.1
+spacy==3.8.2
+pdfminer.six==20240706
+python-multipart==0.0.9
+networkx==3.3
+numpy==1.26.4
+scikit-learn==1.5.2
+Jinja2==3.1.4
+rouge-score==0.1.2
+requests==2.32.3
+
